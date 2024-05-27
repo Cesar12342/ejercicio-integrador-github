@@ -17,9 +17,9 @@ https://github.com/Cesar12342/ejercicio-integrador-github.git
 2 Vaya al directorio del proyecto
 3 Instale las dependencias
 
-autor : 
+Autores : 
 
-- César Pérez montero
+- César Pérez Montero
 
 - Reynaldo Puerto Chongo
 
@@ -29,5 +29,6 @@ Email :
 
 - rpuertochongo@gmail.com
 
+Reynaldo parásito
 
 
